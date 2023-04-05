@@ -1,3 +1,2 @@
 import math
 
-print("OK")
